@@ -1,0 +1,13 @@
+Notice: Microcontroller Lab এ এক্সপেরিমেন্ট মিলানোর থেকে বুঝানো বেশি গুরুত্বপূর্ণ। 
+চেয়ারম্যান স্যার বলেছেন যে বুঝাতে পারবে তাকে এ+ দিবেন।
+
+তবে এরপরেও কেউ কপি করলে কারো কিছু করার নাই
+
+Questions:
+1. I2C Protocol: Implement I2C protocol to send data from the master to a slave. Simulate the communication and display the received data as output on a connected device.
+2. UART Protocol: Implement UART protocol to send data from a transmitter to a receiver. Simulate the communication and display the received data as output on the receiver device.
+
+
+কোনো অপশন থাকবেনা। লটারি তে যার যেটা ভাগ্যে পড়বে তাকে সেটা করতে হবে।
+প্রশ্ন দিয়ে দিছে পরীক্ষার ২৫ দিন আগে।
+মুখস্থ কর
