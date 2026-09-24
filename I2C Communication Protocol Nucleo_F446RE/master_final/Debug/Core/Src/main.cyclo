@@ -1,3 +1,0 @@
-../Core/Src/main.c:43:5:main	1
-../Core/Src/main.c:52:6:I2C1_Init	1
-../Core/Src/main.c:115:6:I2C1_Send	7
